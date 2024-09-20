@@ -221,7 +221,7 @@ class GuiMainMenu : GuiScreen(), GuiYesNoCallback {
 
         GlStateManager.color(1f, 1f, 1f, 1f)
         Fonts.fontSmall.drawCenteredStringWithoutShadow(
-            "by SkidderMC with love ",
+            "by SkidderMC with love (renamed by flippyboyy/hezcheats)",
             width.toFloat() / 2, height.toFloat() / 2 - 19, Color(255, 255, 255, 100).rgb
         )
 
