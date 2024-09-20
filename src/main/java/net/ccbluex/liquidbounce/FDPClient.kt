@@ -1,7 +1,7 @@
 /*
  * FDPClient Hacked Client
  * A free open source mixin-based injection hacked client for Minecraft using Minecraft Forge by LiquidBounce.
- * https://github.com/SkidderMC/FDPClient/
+ * https://github.com/SkidderMC/FDPClient/ Renamed by flippyboyy on discord
  */
 package net.ccbluex.liquidbounce
 
@@ -50,15 +50,15 @@ import net.ccbluex.liquidbounce.utils.render.MiniMapRegister
 import net.ccbluex.liquidbounce.utils.timing.TickedActions
 import net.ccbluex.liquidbounce.utils.timing.WaitTickUtils
 
-object FDPClient {
+object Skid {
 
     /**
      * Client Information
      *
      * This has all of the basic information.
      */
-    const val CLIENT_NAME = "FDPClient"
-    const val CLIENT_AUTHOR = "Zywl 1zuna"
+    const val CLIENT_NAME = "Skid"
+    const val CLIENT_AUTHOR = "flippyboyy"
     const val CLIENT_CLOUD = "https://cloud.liquidbounce.net/LiquidBounce"
     const val CLIENT_WEBSITE = "fdpinfo.github.io"
     const val CLIENT_VERSION = "b7"
