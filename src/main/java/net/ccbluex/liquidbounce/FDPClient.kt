@@ -57,8 +57,8 @@ object Skid {
      *
      * This has all of the basic information.
      */
-    const val CLIENT_NAME = "Skid"
-    const val CLIENT_AUTHOR = "flippyboyy"
+    const val CLIENT_NAME = "FDPClient"
+    const val CLIENT_AUTHOR = "Made by SkidderMC with love"
     const val CLIENT_CLOUD = "https://cloud.liquidbounce.net/LiquidBounce"
     const val CLIENT_WEBSITE = "fdpinfo.github.io"
     const val CLIENT_VERSION = "b7"
